@@ -5,9 +5,9 @@
 1. 运行环境 (Requirements)
 
 本项目需要 Python 3.10+。请直接安装以下依赖库：
-
-```pip install sherpa-onnx sounddevice soundfile numpy```
-
+```
+pip install sherpa-onnx sounddevice soundfile numpy
+```
 
 (注：Mac 用户如果遇到麦克风报错，可能需要运行 brew install portaudio)
 
