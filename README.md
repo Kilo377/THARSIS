@@ -3,13 +3,31 @@
 
 <img width="391" height="410" alt="4bfee17e99e14660b1b7a09810906695" src="https://github.com/user-attachments/assets/a7c81902-d6c0-43c7-83bd-ee9bf95d0a98" />
 
-### 🔥 Motivations
+## 🔥 Motivations
 
-Limited Perceptual Dimensions
-Most existing systems rely on shallow behavior modeling, lacking comprehensive understanding of user emotion, behavioral continuity, underlying motivations, and the influence of environmental context.
+- **Limited Perceptual Dimensions**
+    
+    Most existing systems rely on shallow behavior modeling, lacking comprehensive understanding of user emotion, behavioral continuity, underlying motivations, and the influence of environmental context.
+    
+- **Fragmented and Sensitive Data**
+    
+    Multi-source sensory data is often fragmented and lacks unified structure. Moreover, the raw data is privacy-sensitive, posing significant challenges for secure integration and analysis.
+    
+- **Weak Intent Inference**
+    
+    Current systems mainly respond to explicit commands, failing to recognize or predict users' implicit intents. This reflects a dual challenge: the absence of high-quality annotated datasets and the lack of effective predictive models.
+    
 
-Fragmented and Sensitive Data
-Multi-source sensory data is often fragmented and lacks unified structure. Moreover, the raw data is privacy-sensitive, posing significant challenges for secure integration and analysis.
+## 🚀 Key Features / System Design
 
-Weak Intent Inference
-Current systems mainly respond to explicit commands, failing to recognize or predict users' implicit intents. This reflects a dual challenge: the absence of high-quality annotated datasets and the lack of effective predictive models.
+### 1. Perception Layer: Human-Centric Multimodal Contextual Perception
+
+Capturing high-dimensional signals from diverse modalities, such as vision, audio, motion, and even biosignals, to enable deep, real-time perception of user state.
+
+### 2. Synthesis Layer: Privacy-Enhanced Feature Synthesis
+
+Locally extracting and aligning features from continuous multimodal data streams, and synthesizing them into natural language that captures semantic snapshots of both user and environment states.
+
+### **3. DT Layer: LLM enpowered Intent-Labeled Behavior Dataset Generation**
+
+Using digital twin analysis to label user intent retrospectively and construct privacy-independent causal chains between actions and intents, forming structured datasets for training intent nowcast\forcast models.
