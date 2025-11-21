@@ -2,7 +2,8 @@
 
 
 <img width="2086" height="792" alt="image" src="https://github.com/user-attachments/assets/db1059f1-57a8-45d9-ae09-6599240bdb5c" />
-[![Demo Video](/mnt/data/6a6ea9d7-4a20-4229-a7c0-027531f0b96f.png)](./demo.mp4)
+▶️ [Play Demo](./demo.mp4)
+
 
 
 ## 🔥 Motivations
