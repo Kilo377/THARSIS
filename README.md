@@ -34,3 +34,10 @@ Locally extracting and aligning features from continuous multimodal data streams
 ### **3. DT Layer: LLM enpowered Intent-Labeled Behavior Dataset Generation**
 
 Using digital twin analysis to label user intent retrospectively and construct privacy-independent causal chains between actions and intents, forming structured datasets for training intent nowcast\forcast models.
+
+
+<img width="494" height="444" alt="d4732c4623a267c8d872f7810d6c4836" src="https://github.com/user-attachments/assets/53783faf-8ab4-47e1-9958-75345cb27e41" />
+
+### Contributors:
+Chongyu Bao, University of Bristol, Smart Internet Lab
+HaoKai Yang, University of Bristol, Smart Internet Lab
