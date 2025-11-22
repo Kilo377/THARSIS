@@ -40,4 +40,5 @@ Using digital twin analysis to label user intent retrospectively and construct p
 
 ### Contributors:
 Chongyu Bao, University of Bristol, Smart Internet Lab
+
 HaoKai Yang, University of Bristol, Smart Internet Lab
